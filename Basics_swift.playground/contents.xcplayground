@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='5_loops'/>
+        <page name='7_optional_types'/>
+        <page name='6_tuple'/>
+        <page name='8_arrays'/>
+        <page name='9_sets'/>
+        <page name='10_dictionaries'/>
+        <page name='11_functions'/>
+        <page name='12_closures'/>
+        <page name='14_enum'/>
+        <page name='15_classes'/>
+        <page name='16_structures'/>
+        <page name='17_types_properties'/>
+        <page name='18_inheritance'/>
+        <page name='19_extensions'/>
+        <page name='20_protocols'/>
+    </pages>
+</playground>
